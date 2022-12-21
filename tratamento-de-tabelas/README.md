@@ -1,1 +1,8 @@
-cccc
+<h1>Contexto</h1>
+
+<p>Na Estatística nos deparamos com algumas linguagens de programação. A mais comum até agora, pela minha experiência e conhecimento, é a linguagem R. Contudo, no caminho da programação, eu escolhi aprender a linguagem Python e, por estar fazendo um curso de estatística, é claro que eu vou aprender a utilizar a linguagem R. Porém, estou tentado a acreditar que o Python é tão poderoso quanto o R para análises estatísticas. Podemos produzir gráficos mais visuais e utilizar bibliotecas para limpeza de dados,e assim, produzir uma análise de dados bem completa. É evidente que para um aluno que está indo para o segundo semestre estatística e está indo para seu oitavo em farmácia pode ser e ainda falte alguns conhecimentos, se me comparar com quem é formado e tem experiência na área. Nesse projeto pretendo utilizar de conceitos estatístico básicos para conseguir fazer uma limpeza de dados eficiente e produzir Heatmaps com esses dados.</p>
+
+<h3>Mas você me pergunta: “Que dados?”</h3>
+
+<p>Existe um site que se chama Portal Gtex, o qual se trata de um repositório de dados relacionados a expressões genéticas em vários tipos de tecidos. Existem nessas tabelas com formatos diferentes e com mais de 50 mil registros. O objetivo é correlacionar esses registros uns com os outros. Porém, conheço as limitações das IDEs Python e Notebooks que são bastante utilizados como o Jupyter e o Colab. Por esse motivo uma filtragem e limpeza desses dados se faz muito importante. De fato, o trabalho de um cientista de dados tem que saber tratar os dados e, isso também, faz parte do trabalho de estatístico. Então, espero apreciem este projeto de tratamento de dados e produção de gráficos Heatmap e que consiga mostrar meu potencial para criar, somar e crescer nessa área. É válido ressaltar que críticas são bem-vindas e convites mais ainda!</p>
+
