@@ -1,1 +1,2 @@
-
+<h1>Objetivo</h1>
+<p>Quando criamos um formulario e estamos trabalhando com os inputs de usuarios, muitas vezes lidamos com erros de digitação. Pensando nesse contexto, foi criado esse código para criar uma lista de caracteres embaralhar em minúsculas e maiúsculas. Dessa forma, se o input de nome vir no formato 'gaTo', podemos criar uma condição para saber se esse erro está contido na lista e retornar a correção utlizando métodos de string como .upper(), .lower() e .capitalize()</p>
